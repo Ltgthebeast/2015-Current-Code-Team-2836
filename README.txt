@@ -1,1 +1,1 @@
-This folder / files system will be continously update by Luke Garceau after every day of build season.
+This is the current code for the 2015 Recycle rush robot
